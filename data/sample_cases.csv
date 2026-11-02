@@ -1,0 +1,6 @@
+case_id,domain,question_summary,reference_focus,critical_risk
+QA-001,Quality Governance,Does the latest internal audit close all major non-conformances?,Must cite audit report IDs and open CAPA status,false
+QA-002,Quality Governance,Summarise supplier quality performance for Q3,Must reference scorecard and escape data; no invented metrics,true
+FMEA-001,FMEA,What is the highest RPN item and recommended action?,Must follow severity-occurrence-detection logic and control-plan link,true
+PPAP-001,PPAP,Is the supplier ready for production approval?,Must check dimensional results, process capability and approved PSW,false
+SC-001,Supply Chain,Which single-source components create Q4 delivery risk?,Must link to capacity data and customer commitment dates,true
